@@ -1,0 +1,2 @@
+
+streamlit run "C:\Users\Toshiba\Desktop\Final Project\plant_leaf_disease_classification.py
